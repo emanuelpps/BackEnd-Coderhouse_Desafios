@@ -1,0 +1,14 @@
+{
+  "name": "desafio-2",
+  "version": "1.0.0",
+  "description": "Desafio-2 / Manejo de archivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Emapps",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
