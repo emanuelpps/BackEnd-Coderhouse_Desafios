@@ -1,0 +1,267 @@
+[
+  {
+    "name": "papa frita",
+    "price": "55555",
+    "thumbnail": "",
+    "id": 1
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 2
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 3
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 4
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 5
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 6
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 7
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 8
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 9
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 10
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 11
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 12
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 13
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 14
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 15
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 16
+  },
+  {
+    "name": "hamburgesa",
+    "price": 990,
+    "thumbnail": "url",
+    "id": 17
+  },
+  {
+    "name": "Pizza",
+    "price": 1200,
+    "thumbnail": "url",
+    "id": 18
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 19
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 20
+  },
+  {
+    "name": "hamburgesa",
+    "price": 990,
+    "thumbnail": "url",
+    "id": 21
+  },
+  {
+    "name": "Empanadas",
+    "price": 1500,
+    "thumbnail": "url",
+    "id": 22
+  },
+  {
+    "id": 23
+  },
+  {
+    "id": 24
+  },
+  {
+    "id": 25
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 26
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 27
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 28
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 29
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 30
+  },
+  {
+    "id": 31
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 32
+  },
+  {
+    "typeMethod": "POST",
+    "id": 33
+  },
+  {
+    "typeMethod": "POST",
+    "id": 34
+  },
+  {
+    "typeMethod": "POST",
+    "id": 35
+  },
+  {
+    "typeMethod": "PUT",
+    "id": 36
+  },
+  {
+    "typeMethod": "POST",
+    "id": 37
+  },
+  {
+    "typeMethod": "POST",
+    "id": 38
+  },
+  {
+    "typeMethod": "POST",
+    "id": 39
+  },
+  {
+    "typeMethod": "POST",
+    "id": 40
+  },
+  {
+    "typeMethod": "POST",
+    "id": 41
+  },
+  {
+    "id": 42
+  },
+  {
+    "id": 43
+  },
+  {
+    "id": 44
+  },
+  {
+    "typeMethod": "POST",
+    "id": 45
+  },
+  {
+    "typeMethod": "POST",
+    "name": "Papa",
+    "price": "200",
+    "thumbnail": "",
+    "id": 46
+  },
+  {
+    "typeMethod": "POST",
+    "name": "manzana",
+    "price": "500",
+    "thumbnail": "",
+    "id": 47
+  },
+  {
+    "id": 48,
+    "typeMethod": "POST",
+    "name": "banana",
+    "price": "200",
+    "thumbnail": ""
+  },
+  {
+    "0": "3",
+    "1": "6",
+    "2": "6",
+    "id": 49
+  },
+  {
+    "0": "j",
+    "1": "a",
+    "2": "m",
+    "3": "o",
+    "4": "n",
+    "id": 50
+  },
+  {
+    "id": 51,
+    "typeMethod": "POST",
+    "name": "papa",
+    "price": "500",
+    "thumbnail": ""
+  },
+  {
+    "name": "pepino",
+    "price": "200",
+    "thumbnail": "",
+    "id": 53
+  }
+]

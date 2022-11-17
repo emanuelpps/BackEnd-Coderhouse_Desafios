@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="checkboxMethod" action="api/products" method="POST">
+        <h1>Ingrese los datos del Producto</h1>
+            <h2 id="name" >Nombre de Producto:</h2><input type="text" name="name">
+            <h2 id="price">Precio</h2><input type="text" name="price">
+            <h2 id="thumbnail">Imagen</h2><input type="file" name="thumbnail"><br><br>
+        <button type="submit">ENVIAR</button>
+    </form>
+    <br>
+    <hr>
+    <form>
+        <h1> Seleccione el producto a eliminar</h1>
+        <h2>Ingrese N° de ID</h2><input id="id" type="number" name="id" value="">
+        <br><br>
+        <button>ELIMINAR</button>
+    </form>
+    <br>
+</body>
+<script type="text/javascript" src="./btnScripts.js"></script>
+</html>
